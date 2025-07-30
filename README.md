@@ -12,7 +12,7 @@ DNL_UX_SphereT_INT.m : Depolarization, truncated sphere
 
 DNL_UX_Spheroid.m : Depolarization, complete spheroid
 
-DNL_UX_SpheroirDT.m : Depolarization, doubly truncated sphere
+DNL_UX_SpheroidDT.m : Depolarization, doubly truncated sphere
 
 DNL_UX_SpheroidHemi_INT.m : Depolarization, hemispheroid
 
